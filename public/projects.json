@@ -1,0 +1,156 @@
+[
+  {
+    "id": "1",
+    "webName": "Peddy - Pet Adoption",
+    "webImage": "https://i.ibb.co.com/SDLZWm0j/Peddy.png",
+    "description": "Peddy is an intuitive platform that allows users to browse and adopt pets. The platform provides detailed information about each pet, making it easier for potential pet parents to choose the best companion for their lifestyle. From dogs to rabbits, the wide selection offers something for everyone looking to bring home a new friend.",
+    "liveLink": "https://peddy-adopts.netlify.app",
+    "githubLink": "https://github.com/RAFIQUL595/B10-Assignment-06",
+    "keyFeatures": [
+      "Responsive Navbar & Footer: The website features a clean and fully responsive navbar and footer, ensuring great usability on Desktop, Tablet, and Mobile devices.",
+      "Banner & Pet Categories: The banner section guides users to the 'Adopt Your Best Friend' section. Dynamic categories let users filter pets by type, such as cats, dogs, and rabbits.",
+      "Interactive Pet Cards: Each pet card contains detailed information like name, breed, gender, birth date, and price, with 'Like', 'Details', and 'Adopt' buttons for interaction.",
+      "Adopt Your Best Friend Section: Users can browse pets in a category-based grid, sort pets by price, and like their favorite ones. Liked pets are displayed separately for easy reference.",
+      "Modal & Countdown Adoption Process: The 'Details' button opens a modal with complete information, while the adoption button features an interactive countdown, changing to 'Adopted' upon completion."
+    ],
+    "technologiesUsed": ["React", "Tailwind CSS", "JavaScript", "ES6"]
+  },
+  {
+    "id": "2",
+    "webName": "BPL-DREAM 11",
+    "webImage": "https://i.ibb.co.com/dJ5fkYKc/Cricket.png",
+    "description": "BPL-DREAM 11 is an interactive web application where users can select and manage cricket players for their dream team. Inspired by fantasy leagues, this project allows users to simulate player selection under coin-based limitations and enjoy a beautiful, responsive UI design.",
+    "liveLink": "https://bpl-dreambd-11.netlify.app",
+    "githubLink": "https://github.com/RAFIQUL595/B10-Assignment-07",
+    "keyFeatures": [
+      "Player Selection: Users can select cricket players from a list of available players for their team.",
+      "Coin Management: A coin-based system controls users' ability to buy players.",
+      "Responsive Design: The app is fully responsive and matches the Figma design.",
+      "Remove Player Functionality: Users can remove players from their selected team.",
+      "Notification System: All user interactions (e.g., errors, success) are displayed via toast notifications."
+    ],
+    "technologiesUsed": [
+      "React",
+      "React-Toastify",
+      "Figma",
+      "Tailwind CSS",
+      "Daisy UI",
+      "LocalStorage"
+    ]
+  },
+  {
+    "id": "3",
+    "webName": "GadgetHaven - E-Commerce Platform",
+    "webImage": "https://i.ibb.co.com/qF26VCJC/Gadget-Haven.png",
+    "description": "GadgetHaven is an e-commerce platform for gadget lovers! This platform is designed to provide a seamless experience for users to browse, add to cart, and wishlist their favorite gadgets. The site is based on a detailed Figma design and features dynamic pages with structured navigation, product filtering, and data persistence using the Context API and LocalStorage.",
+    "liveLink": "https://gadgethaven-e-commerce.netlify.app",
+    "githubLink": "https://github.com/RAFIQUL595/B10-Assignment-08",
+    "keyFeatures": [
+      "Dynamic Navigation: A structured navigation bar with an active route indicator.",
+      "Product Categories: Side navigation for easy filtering by category, showing gadgets in a grid layout.",
+      "Wishlist and Cart Functionality: Users can add items to their cart and wishlist, with persistence across sessions.",
+      "Product Filtering and Sorting: Filter products by categories and sort cart items by price.",
+      "Detailed Product Pages: View full details of each product with an add-to-cart and wishlist feature."
+    ],
+    "technologiesUsed": ["React", "Context API", "LocalStorage", "React Hooks"]
+  },
+  {
+    "id": "4",
+    "webName": "DiscountPRO",
+    "webImage": "https://i.ibb.co.com/svhdZdwf/Discount-Pro.png",
+    "description": "DiscountPRO is a powerful discount and coupon management platform designed to help businesses attract customers and boost sales. It provides features like dynamic discount rules, automated promotions, coupon generation, and analytics to track performance. Whether for e-commerce stores, retail shops, or service providers, DiscountPRO makes it easy to apply and manage discounts efficiently.",
+    "liveLink": "https://discountprobd.netlify.app",
+    "githubLink": "https://github.com/RAFIQUL595/B10-Assignment-09",
+    "keyFeatures": [
+      "Responsive Navbar & Footer: The website features a clean and fully responsive navbar and footer, ensuring great usability on Desktop, Tablet, and Mobile devices.",
+      "Private Routing & Authentication: Users can sign in with Google, Facebook, or email, and access private routes for discount management.",
+      "Google Login & Firebase Integration: The platform uses Firebase for user authentication and Google login."
+    ],
+    "technologiesUsed": [
+      "React",
+      "Firebase",
+      "React-Fast-Marquee",
+      "React-Helmet",
+      "React-Hot-Toast"
+    ]
+  },
+  {
+    "id": "5",
+    "webName": "Chill-Gamer",
+    "webImage": "https://i.ibb.co.com/84mbL9qN/Screenshot-103.png",
+    "description": "Chill-Gamer is a gaming blog that features the latest news, reviews, and updates from the gaming world. The platform offers a clean and modern design with a focus on user experience, providing a seamless reading experience for gamers of all ages. Users can browse articles by category, view author profiles, and share their favorite posts on social media.",
+    "liveLink": "https://chill-gamer-e6052.web.app",
+    "githubLink": "https://github.com/RAFIQUL595/B10-Assignment-10-Client-Site",
+    "keyFeatures": [
+      "Responsive Navbar & Footer: The website features a clean and fully responsive navbar and footer, ensuring great usability on Desktop, Tablet, and Mobile devices.",
+      "Add new reviews to Categories: Users can add new reviews to categories like news, reviews, and updates, and view author profiles for each post.",
+      "Reviews update and delete categories: Users can update and delete reviews from the my reviews section.",
+      "Favorite reviews: Users can add reviews to their favorite list and view them in the Game Watchlist section.",
+      "Dark Mode: The platform features a dark mode for users who prefer a darker color scheme."
+    ],
+    "technologiesUsed": [
+      "React",
+      "Tailwind CSS",
+      "React-Router",
+      "Firebase",
+      "React-Toastify",
+      "SwiteAlert2",
+      "React-Simple-Typewriter",
+      "React-Slideshow-Image",
+      "React-Tooltip",
+      "React-Spinners"
+    ]
+  },
+  {
+    "id": "6",
+    "webName": "Car Rental",
+    "webImage": "https://i.ibb.co.com/5gSkFf4Y/Car-Rental.png",
+    "description": "Car Rental is a platform that allows users to browse and rent cars for their travel needs. The platform features a wide selection of cars, from sedans to SUVs, and provides detailed information about each vehicle, including pricing, features, and availability. Users can filter cars by category, view car details, and book their preferred vehicle for a seamless travel experience.",
+    "liveLink": "https://car-rental-86df6.web.app",
+    "githubLink": "https://github.com/RAFIQUL595/B10-Assignment-11-Client-Site",
+    "keyFeatures": [
+      "Responsive Navbar & Footer: The website features a clean and fully responsive navbar and footer, ensuring great usability on Desktop, Tablet, and Mobile devices.",
+      "Add new cars to Categories: Users can add new cars",
+      "Update and Delete cars: Users can update and delete cars from the my cars section.",
+      "Car Booking: Users can book cars for their travel needs and view booking details.",
+      "Car Availability: Users can check car availability and filter cars by category."
+    ],
+    "technologiesUsed": [
+      "React",
+      "axios",
+      "Firebase",
+      "Lottie-React",
+      "React-Icons",
+      "Moment",
+      "React-Datepicker",
+      "Recharts",
+      "sweetalert2"
+    ]
+  },
+  {
+    "id": "7",
+    "webName": "Study Platform",
+    "webImage": "https://i.ibb.co.com/LDdQ1T0S/Screenshot-104.png",
+    "description": "Study Platform is an educational platform that offers a wide range of courses for students of all ages. The platform features a clean and modern design with a focus on user experience, providing a seamless learning experience for students. Users can browse courses by category, view course details, and enroll in their preferred courses for a comprehensive learning experience.",
+    "liveLink": "https://study-platform-29539.web.app",
+    "githubLink": "https://github.com/RAFIQUL595/B10-Assignment-12-Client-Site",
+    "keyFeatures": [
+      "Responsive Navbar & Footer: The website features a clean and fully responsive navbar and footer, ensuring great usability on Desktop, Tablet, and Mobile devices.",
+      "Add new courses to Categories: Tutor can add new courses to categories like programming, design, and marketing, and view course details.",
+      "Update and Delete courses: Admin && Tutor can update and delete courses",
+      "Course Booking: Users can book courses for their learning needs",
+      "Role Management: Admin can manage roles and permissions for users."
+    ],
+    "technologiesUsed": [
+      "React",
+      "Tanstack/react-query",
+      "Firebase",
+      "axios",
+      "Lottie-React",
+      "React-Icons",
+      "React-hook-form",
+      "React-hot-toast",
+      "sweetalert2"
+    ]
+  }
+]

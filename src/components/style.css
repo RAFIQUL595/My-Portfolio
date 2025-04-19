@@ -1,0 +1,15 @@
+/* img hover */
+.zoom-wrapper {
+  overflow: hidden;
+}
+.zoom-wrapper img {
+  /* object-fit: cover; */
+  transition: transform 0.8s;
+  height: 100%;
+}
+
+.zoom-wrapper:hover img {
+  -ms-transform: scale(1.5);
+  -webkit-transform: scale(1.5);
+  transform: scale(1.1);
+}

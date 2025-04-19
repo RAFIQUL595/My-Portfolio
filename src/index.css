@@ -1,0 +1,9 @@
+@import "tailwindcss";
+@plugin "daisyui";
+
+/* Jetbrains Mono Fonts */
+@import "@fontsource/jetbrains-mono";
+
+body {
+  font-family: "JetBrains Mono", monospace;
+}
