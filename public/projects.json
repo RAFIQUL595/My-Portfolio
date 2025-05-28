@@ -152,5 +152,57 @@
       "React-hot-toast",
       "sweetalert2"
     ]
+  },
+  {
+    "id": "8",
+    "webName": "DreamKeys",
+    "webImage": "https://i.ibb.co/jZ9wFBDF/Screenshot-2.png",
+    "description": "DreamKeys is a modern real estate platform that connects property seekers with their dream homes. The platform features a sleek and responsive design, offering a seamless browsing experience. Users can explore properties by category, view detailed listings, and book viewings directly from the site.",
+    "liveLink": "https://dreame-keys.web.app",
+    "githubLink": "https://github.com/RAFIQUL595/DreamKeys-client",
+    "keyFeatures": [
+      "Responsive Navbar & Footer: Fully responsive design optimized for all devices, ensuring users can search for properties anytime, anywhere.",
+      "Add New Property Listings: Agents can add new property listings under categories like apartments, houses, and commercial spaces.",
+      "Update and Delete Listings: Admins and Agents can edit or remove outdated or incorrect listings.",
+      "Property Booking: Users can book property viewings or request contact with agents for more information.",
+      "Role Management: Admin can manage user roles such as user and agents with different permissions."
+    ],
+    "technologiesUsed": [
+      "React",
+      "Tanstack/react-query",
+      "Firebase",
+      "axios",
+      "Lottie-React",
+      "React-Icons",
+      "React-hook-form",
+      "sweetalert2",
+      "react-chartjs-2",
+      "react-modal"
+    ]
+  },
+  {
+    "id": "9",
+    "webName": "ProCleaning",
+    "webImage": "https://i.ibb.co/ZRqvKjmX/Screenshot-3.png",
+    "description": "ProCleaning is a professional cleaning service platform that connects users with top-rated cleaning professionals. The platform features a user-friendly interface, allowing users to book cleaning services, view service details, and manage their bookings seamlessly. With a focus on quality and reliability, ProCleaning ensures a clean and comfortable environment for its users.",
+    "liveLink": "https://pro-cleaning-pi.vercel.app",
+    "githubLink": "https://github.com/RAFIQUL595/ProCleaning",
+    "keyFeatures": [
+      "Responsive Navbar & Footer: Fully responsive design optimized for all devices, ensuring users can search for properties anytime, anywhere.",
+      "Booking System: Easy service booking and management (simulated for demo).",
+      "Clean UI/UX: Designed with simplicity and accessibility in mind.",
+      "Integrated Email Service: Contact via EmailJS for inquiries.",
+      "Loading Indicators: Smooth user feedback with react-spinners.",
+      "Stylized Alerts: Enhanced UX using sweetalert2."
+    ],
+    "technologiesUsed": [
+      "React",
+      "React-Icons",
+      "sweetalert2",
+      "Tailwind CSS",
+      "Daisy UI",
+      "emailjs-com",
+      "react-spinners"
+    ]
   }
 ]

@@ -18,7 +18,7 @@ const Contact = () => {
   });
 
   useEffect(() => {
-    AOS.init({ duration: 800, overflow: 'hidden' }); // Prevent AOS overflow
+    AOS.init({ duration: 800, overflow: 'hidden' });
     AOS.refresh();
   }, []);
 
