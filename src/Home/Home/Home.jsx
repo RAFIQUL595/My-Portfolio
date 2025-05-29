@@ -66,11 +66,14 @@ const Home = () => {
             <p className="px-2 sm:px-3 py-1 rounded-2xl shadow-purple-500 backdrop-blur-lg shadow-md hover:bg-blue-950 opacity-90 text-xs sm:text-sm">
               Node.js
             </p>
+            <p className="px-2 sm:px-3 py-1 rounded-2xl shadow-purple-500 backdrop-blur-lg shadow-md hover:bg-blue-950 opacity-90 text-xs sm:text-sm">
+              Next.js
+            </p>
           </div>
           {/* Buttons */}
           <div className="flex flex-col sm:flex-row gap-2 sm:gap-4 justify-center md:justify-start">
             <Link
-              to="https://drive.google.com/uc?export=download&id=1CZAk4K49bIuemzmRAqrIGUAIPIZUwax4"
+              to="https://drive.google.com/file/d/1NgvgyK0wfY1MtZo290sngxoq6NljSQwg/view?usp=drive_link"
               target="_blank"
             >
               <button
