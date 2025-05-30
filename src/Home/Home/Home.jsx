@@ -73,7 +73,7 @@ const Home = () => {
           {/* Buttons */}
           <div className="flex flex-col sm:flex-row gap-2 sm:gap-4 justify-center md:justify-start">
             <Link
-              to="https://drive.google.com/file/d/1NgvgyK0wfY1MtZo290sngxoq6NljSQwg/view?usp=drive_link"
+              to="https://drive.google.com/file/d/1qihhwkP63EM0jYmKMns_iBKEtyYqsB0m/view?usp=drive_link"
               target="_blank"
             >
               <button

@@ -64,7 +64,7 @@ const About = () => {
                 className="flex flex-col sm:flex-row items-center gap-2 sm:gap-4 mt-5 sm:mt-8"
             >
                 <Link
-                    to="https://drive.google.com/file/d/1NgvgyK0wfY1MtZo290sngxoq6NljSQwg/view?usp=drive_link"
+                    to="https://drive.google.com/file/d/1qihhwkP63EM0jYmKMns_iBKEtyYqsB0m/view?usp=drive_link"
                     target="_blank"
                     rel="noopener noreferrer"
                 >
