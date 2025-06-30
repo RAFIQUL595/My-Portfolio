@@ -1,7 +1,7 @@
 /* eslint-disable react/no-unescaped-entities */
 import { CiLinkedin, CiShare1 } from "react-icons/ci";
 import { IoMailOutline } from "react-icons/io5";
-import profileImg from '../../../public/Rafiqul.jpg';
+import profileImg from '../../../public/1749654285308.jpg';
 import { Typewriter } from "react-simple-typewriter";
 import { FaGithub } from "react-icons/fa";
 import { Link } from "react-router-dom";
@@ -15,7 +15,7 @@ const Home = () => {
         id="home"
         className="py-10 sm:py-16 md:py-20 px-4 sm:px-6 lg:px-8  max-w-screen-lg mx-auto overflow-hidden"
       >
-        <div className="flex flex-col md:flex-row-reverse items-center gap-6 sm:gap-8">
+        <div className="flex flex-col md:flex-row-reverse items-center gap-6 sm:gap-8 pt-16 md:pt-0">
           {/* Image */}
           <img
             src={profileImg}
